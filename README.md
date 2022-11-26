@@ -1,5 +1,5 @@
 # vue 3 calculator
-It has multiple options like, we can operate through key board, each key attached with sound track, and showing hitory of each calculation upto last 7 calculations and if you click on hisotory it will take to calculation part and it will start from there, no need to type again which are already avilable in history. 
+It has multiple options like, we can operate through key board, each key attached with sound track, and showing history of each calculation upto last 7 calculations and if you click on hisotory it will take to calculation part and it will start from there, no need to type again which are already avilable in history. 
 ## Project setup
 ```
 npm install
